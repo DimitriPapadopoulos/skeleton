@@ -53,4 +53,3 @@ extlinks = {
 }
 extensions += ['sphinx.ext.extlinks']
 
-# local
